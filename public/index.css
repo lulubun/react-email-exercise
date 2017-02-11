@@ -1,0 +1,23 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  border: solid black 1px;
+	width: 25%;
+}
+
+.mailbox {
+	margin-left: 25%;
+}
+
+.OneEmail {
+
+}
+
+ul {
+  list-style-type: none;
+}
